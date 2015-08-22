@@ -1,3 +1,5 @@
+Forked from [bilibili-helper](https://github.com/zacyu/bilibili-helper)
+
 # bilibili-helper
 
 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作。
